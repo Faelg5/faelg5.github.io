@@ -12,6 +12,6 @@ end
 print_hi('Tom')
 {% endhighlight %}
 
-Check out my other [website][website_raphaeltuor.ml] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+Check out my other [website][website_raphaeltuor.ml]!
 
 [website_raphaeltuor.ml]: http://raphaeltuor.ml
